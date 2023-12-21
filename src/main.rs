@@ -1,4 +1,4 @@
-// create a matrix Vec<Vec<T>> of generic type T
+// create a matrix Vec<Vec<String>> 
 // allow these MyCells to be colored when they print
 // create, read, update, delete
 #![allow(warnings)]
